@@ -9,5 +9,5 @@ $ pip install -r requirements.txt
 
 2. run
 ```shell
-$ python video2audio.py {input_video_path} {ouput_video_path}
+$ python video2audio.py {input_video_path} {ouput_audio_path}
 ```
